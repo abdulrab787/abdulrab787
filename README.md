@@ -1,20 +1,3 @@
-Claude
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Readme · MD
 <h1 align="center">Hi, I'm Abdur Rab 👋</h1> <h3 align="center">Data &amp; BI Analyst · Power BI · SQL · Python · Telecom Network Analytics</h3> <p align="center"> <a href="https://linkedin.com/in/abdulrab89"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://www.kaggle.com/abdurrabnizamuddeen"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle"/></a> <a href="https://www.credly.com/users/abdur-rab-nizamuddeen"><img src="https://img.shields.io/badge/Credly-FF6B00?style=flat&logo=credly&logoColor=white" alt="Credly"/></a> <a href="mailto:abdulrab0400@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a> </p>
 About me
 📍 Dubai, UAE · Field Engineer at e& (Etisalat) since 2019
@@ -45,5 +28,3 @@ IBM SkillsBuild Data Analytics Certificate
 AWS Cloud Quest: Cloud Practitioner & Generative AI Practitioner (hands-on labs)
 Dubai 1 Million Prompters — AI Prompt Engineering (Dubai Future Foundation)
 Currently preparing for AWS Data Engineer Associate (DEA-C01)
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abdulrab787&show_icons=true&hide_border=true&theme=default" height="160" alt="GitHub stats"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrab787&layout=compact&hide_border=true&theme=default" height="160" alt="Top languages"/> </p>
-Claude finished the response
